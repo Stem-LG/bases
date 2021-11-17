@@ -1,5 +1,9 @@
 # bases
 This app can convert numbers to from different bases to other different bases
 
+available functions(atm):
+1- decimal to binary
+2- binary to decimal
+3- decimal to hex
 
-for now it still only converts from decimal to binary(base-2) but it'll be updating very soon :)
+(adding more soon)
